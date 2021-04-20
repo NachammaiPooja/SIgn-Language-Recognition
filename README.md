@@ -1,2 +1,2 @@
-# SIgn-Language-Recognition
-Sign Language Recognition using Convolutional neural network(NASNetMobile Module)
+# Sign-Language-Detection
+Sign Language Detection using Convolutional neural network(NASNetMobile Module)
